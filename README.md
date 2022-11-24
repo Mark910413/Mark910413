@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zhe liu
 - 👀 I’m interested in fish
-- 🌱 I’m currently learning Crypress, Python
+- 🌱 I’m currently learning Crypress, Python,Go
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 13999827606
 
